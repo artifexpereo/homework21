@@ -1,0 +1,16 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.form__author, .form__text, .form__img {
+    margin-bottom: 20px;
+}
+
+.form__author div, .form__text div, .form__img div {
+    width: 100%;
+}
+

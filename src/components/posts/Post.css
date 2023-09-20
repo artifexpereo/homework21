@@ -1,0 +1,9 @@
+.post {
+    max-width: 345px;
+    margin: 20px auto;
+    width: 100%;
+}
+
+.post__avatar {
+    object-fit: cover
+}
